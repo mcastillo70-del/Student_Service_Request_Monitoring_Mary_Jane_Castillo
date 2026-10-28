@@ -1,0 +1,11 @@
+Request_ID,Service_Type,Submission_Channel,Priority,Documents_Complete,Queue_Length_At_Submission,Requested_Processing_Days,Submission_Day,Previous_Request_Count,SLA_Breach
+REQ001,Enrollment,Online,High,Yes,12,2,Monday,3,Yes
+REQ002,ID Request,Walk-in,Low,Yes,3,5,Tuesday,1,No
+REQ003,Documents,Online,Medium,No,15,3,Wednesday,5,Yes
+REQ004,Payment,Walk-in,High,Yes,10,2,Thursday,2,Yes
+REQ005,Enrollment,Online,Medium,No,8,4,Friday,4,No
+REQ006,ID Request,Online,Low,Yes,2,5,Monday,0,No
+REQ007,Documents,Walk-in,High,No,18,2,Tuesday,6,Yes
+REQ008,Payment,Online,Medium,Yes,7,3,Wednesday,2,No
+REQ009,Enrollment,Walk-in,Low,Yes,4,5,Thursday,1,No
+REQ010,Documents,Online,High,No,14,2,Friday,5,Yes
